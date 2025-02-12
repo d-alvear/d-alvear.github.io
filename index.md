@@ -1,10 +1,11 @@
-## Portfolio
+## Adventures in Data Science
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+Project 1 Title
+[Read all about it](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
