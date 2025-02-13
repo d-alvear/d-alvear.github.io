@@ -8,8 +8,12 @@ number one on the Billboard Hot 100 Chart from the 1950s to present.
 
 <img src="./images/records.jpg"/>
 
-[Read all about it](https://github.com/d-alvear/Analyzing-Music-by-Decade/blob/main/reports/project-writeup.md)
+<!-- [Read all about it](https://github.com/d-alvear/Analyzing-Music-by-Decade/blob/main/reports/project-writeup.md) -->
+
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 ---
+
 ## Friendshipify: A Playlist Generator For Friends 
 
 A multi-user song recommender for friends, couples, or strangers with different tastes in music.
@@ -17,7 +21,9 @@ Friendshipify will recommend songs based on the similarities between two users' 
 
 <img src="./images/crop_2_friendshipify_home.jpg"/>
 
-[Read all about it](https://medium.com/towards-data-science/friendshipify-a-playlist-generator-for-friends-f79297f08b03)
+<!-- [Read all about it](https://medium.com/towards-data-science/friendshipify-a-playlist-generator-for-friends-f79297f08b03) -->
+
+[Click me](http://www.google.com){: .btn}
 
 
 ---
