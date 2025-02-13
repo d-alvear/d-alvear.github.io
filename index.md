@@ -1,24 +1,24 @@
 ## Adventures in Data Science
 
 ---
+### Project 1 Title
 
-### Category Name 1 
-
-Project 1 Title
 [Read all about it](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Project 2 Title
+[Read all about it](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### Project 3 Title
+[Read all about it](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+## Around the Internet
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
