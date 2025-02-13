@@ -5,16 +5,16 @@ body {
   background-color: #ffffff;
   padding:50px;
   font-size: 16px;
-  line-height: 1.5; 
-  font-family:  -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+  line-height: 1.4; 
+  font-family:  -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   color:#000000;
   font-weight:400;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color:#1d46e8;
-  margin:0 0 20px;
-}
+// h1, h2, h3, h4, h5, h6 {
+//   color:#1d46e8;
+//   margin:0 0 20px;
+// }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
@@ -42,9 +42,11 @@ a {
 }
 
 a:hover, a:focus {
-  color:rgb(0, 0, 0);
-  font-weight: bold;
-  text-decoration: underline;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #adff00
 }
 
 a small {
