@@ -1,20 +1,16 @@
-## Adventures in Data Science
+## Adventures in Data
 
 ---
-### Project 1 Title
-
-[Read all about it](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-### Project 2 Title
-[Read all about it](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Analyzing Music by Decade
+[Read all about it](https://github.com/d-alvear/Analyzing-Music-by-Decade/blob/main/reports/project-writeup.md)
+<img src="./images/records.jpg"/>
 
 ---
-### Project 3 Title
-[Read all about it](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Friendshipify: A Playlist Generator For Friends 
+[Read all about it](https://medium.com/towards-data-science/friendshipify-a-playlist-generator-for-friends-f79297f08b03)
+<img src="./images/crop_2_friendshipify_home.jpg"/>
+
+---
 
 ---
 
