@@ -10,7 +10,13 @@ number one on the Billboard Hot 100 Chart from the 1950s to present.
 
 <!-- [Read all about it](https://github.com/d-alvear/Analyzing-Music-by-Decade/blob/main/reports/project-writeup.md) -->
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<div class="download-link">
+    <a href="https://deandraalvear.com" target="_blank" rel="noopener noreferrer">
+        <button>
+            Kapowie
+        </button>
+    </a>
+</div>
 
 ---
 
@@ -23,9 +29,13 @@ Friendshipify will recommend songs based on the similarities between two users' 
 
 <!-- [Read all about it](https://medium.com/towards-data-science/friendshipify-a-playlist-generator-for-friends-f79297f08b03) -->
 
-[Click me](http://www.google.com){: .btn}
-
-
+<div class="download-link">
+    <a href="https://deandraalvear.com" target="_blank" rel="noopener noreferrer">
+        <button>
+            Kapowie again!
+        </button>
+    </a>
+</div>
 ---
 
 <!-- 

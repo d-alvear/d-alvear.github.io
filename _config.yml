@@ -7,7 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Fun fact, I make <i>really</i> good playlists. I even built a playlist recommender app that you can read about
   <a href="https://medium.com/towards-data-science/friendshipify-a-playlist-generator-for-friends-f79297f08b03">here</a> 
   <br><br>
-  <a href="https://www.linkedin.com/in/deandraalvear/">linkedin >> deandraalvear</a> 
+  <a href="https://www.linkedin.com/in/deandraalvear/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/deandraalvear/">GitHub</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
