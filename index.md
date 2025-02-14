@@ -16,7 +16,7 @@ number one on the Billboard Hot 100 Chart from the 1950s to present.
     </a>
 </div>
 
---
+---
 
 ## Friendshipify: A Playlist Generator For Friends 
 
@@ -33,7 +33,7 @@ Friendshipify will recommend songs based on the similarities between two users' 
     </a>
 </div>
 
-
+---
 <!-- 
 ## Around the Internet
 
