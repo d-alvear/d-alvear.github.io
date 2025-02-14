@@ -17,7 +17,6 @@ body {
 // }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
   padding-top: 20px;
 }
 
@@ -29,6 +28,7 @@ h1, h2, h3 {
 h1 {
   font-size: 28px;
   text-align: center;
+  margin-top: 0px;
 }
 
 h1-title {
@@ -40,6 +40,7 @@ h1-title {
 
 h2 {
   color:#000000;
+  margin-bottom: 0px;
 }
 
 h3, h4, h5, h6 {
@@ -72,12 +73,15 @@ a:hover small {
 
 button {
   background: #adff00;
+  display: block;
+  margin: 0 auto;
   padding: 0.75em 1.5em;
   font-size: 0.85rem;
   border: none;
   font-weight: 600;
   border-radius: 3px;
   transition: 100ms all linear;
+
 }
 
 button:hover {
@@ -233,7 +237,7 @@ small {
 
 hr {
   border:0;
-  background:#aeaeae;
+  background:#dedede;
   height:1px;
   margin-top: 20px;
   margin-bottom: 20px;

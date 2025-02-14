@@ -9,13 +9,14 @@ number one on the Billboard Hot 100 Chart from the 1950s to present.
 <img src="./images/records.jpg"/>
 
 <div class="download-link">
-    <a href="https://github.com/d-alvear/Analyzing-Music-by-Decade/blob/main/reports/project-writeup.md" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/d-alvear/Analyzing-Music-by-Decade/blob/main/reports/project-writeup.md" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <button>
             Read More
         </button>
     </a>
 </div>
 
+--
 
 ## Friendshipify: A Playlist Generator For Friends 
 
@@ -25,7 +26,7 @@ Friendshipify will recommend songs based on the similarities between two users' 
 <img src="./images/crop_2_friendshipify_home.jpg"/>
 
 <div class="download-link">
-    <a href="https://medium.com/towards-data-science/friendshipify-a-playlist-generator-for-friends-f79297f08b03" target="_blank" rel="noopener noreferrer">
+    <a href="https://medium.com/towards-data-science/friendshipify-a-playlist-generator-for-friends-f79297f08b03" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <button>
             Read more
         </button>
