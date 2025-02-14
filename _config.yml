@@ -11,6 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/deandraalvear/">LinkedIn</a>
   <br>
   <a href="https://www.linkedin.com/in/deandraalvear/">GitHub</a> 
+  <br>
+  <a href="mailto:deandraalvear@gmail.com">Send email</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
