@@ -71,7 +71,7 @@ a:hover small {
 }
 
 button {
-  background: #FF5B22;
+  background: #adff00;
   padding: 0.75em 1.5em;
   font-size: 0.85rem;
   border: none;
@@ -82,8 +82,8 @@ button {
 
 button:hover {
   cursor: pointer;
-  background: #4D0011;
-  color: #FF5B22;
+  background: #00e100;
+  color: #000000;
   transition: 100ms all linear;
 }
 
@@ -233,9 +233,10 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:#aeaeae;
   height:1px;
-  margin:0 0 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 footer {

@@ -1,24 +1,21 @@
-# Adventures in Data
+<!-- # Adventures in Data -->
+<h1 styles="margin-top: 0px;">Adventures in Data</h1>
 
 ---
 ## Analyzing Music by Decade
-
 I perform an exploratory anlysis on singles that went 
 number one on the Billboard Hot 100 Chart from the 1950s to present.
 
 <img src="./images/records.jpg"/>
 
-<!-- [Read all about it](https://github.com/d-alvear/Analyzing-Music-by-Decade/blob/main/reports/project-writeup.md) -->
-
 <div class="download-link">
-    <a href="https://deandraalvear.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/d-alvear/Analyzing-Music-by-Decade/blob/main/reports/project-writeup.md" target="_blank" rel="noopener noreferrer">
         <button>
-            Kapowie
+            Read More
         </button>
     </a>
 </div>
 
----
 
 ## Friendshipify: A Playlist Generator For Friends 
 
@@ -27,16 +24,14 @@ Friendshipify will recommend songs based on the similarities between two users' 
 
 <img src="./images/crop_2_friendshipify_home.jpg"/>
 
-<!-- [Read all about it](https://medium.com/towards-data-science/friendshipify-a-playlist-generator-for-friends-f79297f08b03) -->
-
 <div class="download-link">
-    <a href="https://deandraalvear.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://medium.com/towards-data-science/friendshipify-a-playlist-generator-for-friends-f79297f08b03" target="_blank" rel="noopener noreferrer">
         <button>
-            Kapowie again!
+            Read more
         </button>
     </a>
 </div>
----
+
 
 <!-- 
 ## Around the Internet
