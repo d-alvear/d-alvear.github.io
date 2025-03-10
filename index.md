@@ -2,6 +2,21 @@
 <h1 styles="margin-top: 0px;">Adventures in Data</h1>
 
 ---
+## Predicting Polycystic Ovary Syndrome (PCOS) Using Machine Learning
+Polycystic ovary syndrome (PCOS) is one of the most common causes of female infertility. It is a hormonal imbalance that occurs when the ovaries create excess hormones; PCOS can also increase the risk of other health conditions such as diabetes and high blood pressure.
+In this project, I utilize physical and clinical metadata to train a machine learning classifier to accurately predict PCOS. 
+
+<img src=".images/markus-winkler--Wgu0sVpz_4-unsplash.jpg"/>
+
+<div class="download-link">
+    <a href="https://github.com/d-alvear/predictive-health/blob/main/project_writeup.md" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+        <button>
+            Read More
+        </button>
+    </a>
+</div>
+
+---
 ## Analyzing Music by Decade
 I perform an exploratory anlysis on singles that went 
 number one on the Billboard Hot 100 Chart from the 1950s to present.
